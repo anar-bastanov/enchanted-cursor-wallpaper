@@ -1,0 +1,12 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Enchanted Cursor",
+  "Thumbnail": "res/thumbnail.png",
+  "Preview": "res/preview.gif",
+  "Desc": "Rainbow cursor effect using HTML5 Canvas.",
+  "Author": "Anar Bastanov",
+  "License": "MIT",
+  "Contact": "https://github.com/anar-bastanov/enchanted-cursor-wallpaper",
+  "Type": 1,
+  "FileName": "src/index.html"
+}

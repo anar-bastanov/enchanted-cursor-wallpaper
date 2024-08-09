@@ -1,0 +1,99 @@
+{
+  "labelCursor": {
+    "type": "label",
+    "value": "Cursor"
+  },
+  "radius": {
+    "text": "Radius",
+    "type": "slider",
+    "value": 5,
+    "min": 1,
+    "max": 20
+  },
+  "rainbowSpeed": {
+    "text": "Rainbow Speed",
+    "type": "slider",
+    "value": 30,
+    "min": 1,
+    "max": 100
+  },
+  "randomBrightness": {
+    "text": "Random Brightness",
+    "type": "slider",
+    "value": 70,
+    "min": 0,
+    "max": 100
+  },
+  "distortion": {
+    "text": "Distortion",
+    "type": "slider",
+    "value": 40,
+    "min": 0,
+    "max": 100
+  },
+  "labelWindow": {
+    "type": "label",
+    "value": "Window"
+  },
+  "fadeSpeed": {
+    "text": "Fade Speed",
+    "type": "slider",
+    "value": 1,
+    "min": 1,
+    "max": 100
+  },
+  "backgroundNoise": {
+    "text": "Background Noise",
+    "type": "slider",
+    "value": 25,
+    "min": 0,
+    "max": 100
+  },
+  "syncNoiseColor": {
+    "text": "Sync Noise Color",
+    "type": "checkbox",
+    "value": false
+  },
+  "screenSaturation": {
+    "text": "Screen Saturation",
+    "type": "slider",
+    "value": 50,
+    "min": 0,
+    "max": 100
+  },
+  "labelText": {
+    "type": "label",
+    "value": "Text"
+  },
+  "characters": {
+    "text": "Characters",
+    "type": "textbox",
+    "value": "ᔑʖᓵ↸ᒷ⎓⊣⍑╎⋮ꖌꖎᒲリ𝙹!¡ᑑ∷ᓭℸ⚍⍊∴/||⨅"
+  },
+  "fontSize": {
+    "text": "Font Size",
+    "type": "slider",
+    "value": 12,
+    "min": 8,
+    "max": 30
+  },
+  "fontName": {
+    "text": "Font Name",
+    "type": "dropdown",
+    "value": 11,
+    "items": [
+      "Arial",
+      "Verdana",
+      "Times New Roman",
+      "Georgia",
+      "Courier New",
+      "Lucida Console",
+      "Trebuchet MS",
+      "Tahoma",
+      "Palatino Linotype",
+      "Impact",
+      "Comic Sans MS",
+      "Consolas"
+    ]
+  }
+}
